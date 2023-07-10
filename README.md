@@ -16,13 +16,17 @@
 
 ## Modified Generator Architecture
 ![Proposed Generator architecture](assets/new_g.png)  
-Adding Attention Block
+Add Self-Attention Block
+form Self-Attention Generative Adversarial Network, Han Zhang, Ian Goodfellow, Dimitris Metaxas, Augustus Odena
 
+## Used Self-Attention Block Architecture
 ![Self Attention Block architecture](assets/attn_block.png)
 
 ![Self Attention train result](assets/attn_result.png)
 
+## Modified model result
 ![Proposed model result](assets/EG_result.png)
 ![](assets/EG_result2.png)
 
+## Improvement
 ![PSNR/SSIM improvement](assets/PSNR.png)
