@@ -1,2 +1,2 @@
 # GraduatePrj
-2023 Graduate Project, ㅕsing EnlightenGAN, Integrating Self-Attention from SAGAN into EnlightenGAN
+2023 Graduate Project, Using EnlightenGAN, Integrating Self-Attention from SAGAN into EnlightenGAN
