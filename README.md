@@ -8,9 +8,10 @@
 [[Paper]](https://arxiv.org/abs/1906.06972) [[Supplementary Materials]](https://yifanjiang.net/files/EnlightenGAN_Supplementary.pdf)
 
 =======
-- Limits of the paper
+### Limits of the paper
 ![Limits of the paper](assets/limit.png)
 
+### EnlightenGAN's Generator architecture
 ![EnlightenGAN's Generator architecture](assets/original_g.png)  
 
 ![Proposed Generator architecture](assets/new_g.png)  
