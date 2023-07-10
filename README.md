@@ -8,13 +8,15 @@
 [[Paper]](https://arxiv.org/abs/1906.06972) [[Supplementary Materials]](https://yifanjiang.net/files/EnlightenGAN_Supplementary.pdf)
 
 =======
-### Limits of the paper
+## Limits of the Paper
 ![Limits of the paper](assets/limit.png)
 
-### EnlightenGAN's Generator architecture
+## EnlightenGAN's Generator Architecture
 ![EnlightenGAN's Generator architecture](assets/original_g.png)  
 
+## Modified Generator Architecture
 ![Proposed Generator architecture](assets/new_g.png)  
+Adding Attention Block
 
 ![Self Attention Block architecture](assets/attn_block.png)
 
