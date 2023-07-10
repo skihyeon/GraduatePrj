@@ -1,5 +1,9 @@
 # GraduatePrj
 ## 2023 Graduate Project, Using EnlightenGAN, Integrating Self-Attention from SAGAN into EnlightenGAN
+### Development note during Prjoect
+[[Devlopment note]](https://www.notion.so/Development-note-fa16d62bc29443dabff7f0895537c4e8?pvs=4)
+### Overview of GraduatePrj
+[[Overview]](https://www.notion.so/0e6cedfdda5d4215a2cc6bbe0b77b469?pvs=4)
 =======
 ## Base Paper
 ### EnlightenGAN: Deep Light Enhancement without Paired Supervision
